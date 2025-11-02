@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c809e40fac21ca1e",
+            "id": "a989ab84d1835063",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,45 +20,29 @@
             }
           },
           {
-            "id": "7760784b846a84b7",
+            "id": "cf844f9e67811e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Microservices Architecture.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/1.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Microservices Architecture"
+              "icon": "excalidraw-icon",
+              "title": "1.excalidraw"
             }
           },
           {
-            "id": "1f2e1c87aa6a2d4e",
+            "id": "cf07f3931b9f9ce2",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=VPQfP9W4kuTHCsA3VLhex&theme=light&version=2&sort=downloadsTotal",
-                "title": "Excalidraw Libraries",
+                "url": "https://www.youtube.com/watch?v=Nv2DERaMx-4",
+                "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Excalidraw Libraries"
-            }
-          },
-          {
-            "id": "225f799f8d4946f0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.google.com/search?q=attention+svg&sca_esv=00fe7e8babcbcbce&udm=2&biw=1668&bih=974&ei=NP4GaYqLNuikkdUPzdWggQ4&ved=0ahUKEwiK9Ymj79KQAxVoUqQEHc0qKOAQ4dUDCBI&uact=5&oq=attention+svg&gs_lp=Egtnd3Mtd2l6LWltZyINYXR0ZW50aW9uIHN2ZzIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBRAAGIAEMgQQABgeSIkSUABYxg5wAHgAkAEAmAG2AaAB-guqAQMwLjm4AQPIAQD4AQGYAgegAvAJwgIIEAAYExgHGB7CAggQABgFGAcYHpgDAJIHAzAuN6AH8S6yBwMwLje4B_AJwgcFMi0yLjXIB1A&sclient=gws-wiz-img",
-                "title": "attention svg - Recherche Google",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "attention svg - Recherche Google"
+              "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners - YouTube"
             }
           }
         ]
@@ -234,11 +218,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c809e40fac21ca1e",
+  "active": "a989ab84d1835063",
   "lastOpenFiles": [
-    "Excalidraw/Layered Architecture.md",
-    "Excalidraw/Microservices Architecture.md",
+    "Excalidraw/UML.excalidraw.md",
     "Excalidraw/1.excalidraw.md",
+    "Excalidraw/Microservices Architecture.md",
+    "UML_logo.svg",
+    "Excalidraw/Layered Architecture.md",
     "Excalidraw/Monolithic Architecture.md",
     "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
     "Pasted Image 20251102072917_191.png",
@@ -263,8 +249,6 @@
     "TodoList.md",
     "TimeTracker.md",
     "JART.md",
-    "AreaCalculator.md",
-    "polymorphism.md",
     "intersetion.png",
     "Untitled 1.canvas",
     "Pasted image 20250814125509.png",
