@@ -13,14 +13,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/UML.excalidraw.md"
+                "file": "Excalidraw/1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "UML.excalidraw"
+              "title": "1.excalidraw"
             }
           },
           {
-            "id": "5cbc33c50837eb17",
+            "id": "d646ea6b4594d7f5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -29,34 +29,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "UML.excalidraw"
-            }
-          },
-          {
-            "id": "b29b770af19871b3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=WnMQ8HlmeXc",
-                "title": "UML Diagrams Full Course (Unified Modeling Language) - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "UML Diagrams Full Course (Unified Modeling Language) - YouTube"
-            }
-          },
-          {
-            "id": "51b27dde7b2c0401",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=xsg9BDiwiJE&list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R",
-                "title": "Entity Relationship Diagram (ERD) Tutorial - Part 1 - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Entity Relationship Diagram (ERD) Tutorial - Part 1 - YouTube"
             }
           },
           {
@@ -70,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +215,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b29b770af19871b3",
+  "active": "d646ea6b4594d7f5",
   "lastOpenFiles": [
+    "Excalidraw/1.excalidraw.md",
     "Excalidraw/UML.excalidraw.md",
     "Excalidraw/Monolithic Architecture.md",
     "Excalidraw/Layered Architecture.md",
@@ -254,7 +227,6 @@
     "UML_logo.svg",
     "Untitled.base",
     "Untitled.canvas",
-    "Excalidraw/1.excalidraw.md",
     "Pasted Image 20251102072917_191.png",
     "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
     "Excalidraw",
