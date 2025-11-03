@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27dc72ec650057bd",
+            "id": "c809e40fac21ca1e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d646ea6b4594d7f5",
+            "id": "2457236d96f55421",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,13 +32,45 @@
             }
           },
           {
-            "id": "8a7dadd494132f72",
+            "id": "94dd503155befe2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-component-diagram/",
+                "title": "What is Component Diagram?",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "What is Component Diagram?"
+            }
+          },
+          {
+            "id": "25b2057a17f805c9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/",
+                "title": "What is Unified Modeling Language (UML)?",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "What is Unified Modeling Language (UML)?"
+            }
+          },
+          {
+            "id": "225f799f8d4946f0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.w3schools.com/java/java_abstract.asp",
+                "title": "Java Abstraction",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Java Abstraction"
             }
           }
         ],
@@ -215,22 +247,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d646ea6b4594d7f5",
+  "active": "2457236d96f55421",
   "lastOpenFiles": [
-    "Excalidraw/1.excalidraw.md",
     "Excalidraw/UML.excalidraw.md",
-    "Excalidraw/Monolithic Architecture.md",
-    "Excalidraw/Layered Architecture.md",
     "Excalidraw/Microservices Architecture.md",
-    "Excalidraw/Drawing 2025-11-03 00.40.37.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-03 00.40.36.excalidraw.md",
+    "Excalidraw/1.excalidraw.md",
     "UML_logo.svg",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Pasted Image 20251102072917_191.png",
+    "Excalidraw/Layered Architecture.md",
+    "Excalidraw/Monolithic Architecture.md",
     "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
+    "Pasted Image 20251102072917_191.png",
     "Excalidraw",
     "When do we use `length` and `length()` in Java?.md",
+    "Untitled.canvas",
     "Untitled 1.md",
     "Checkpoint-1.md",
     "SingleLinkedList manual.md",
@@ -247,6 +276,8 @@
     "DistinctSubstringLength.md",
     "Flexisort.md",
     "TodoList.md",
+    "TimeTracker.md",
+    "JART.md",
     "intersetion.png",
     "Untitled 1.canvas",
     "Pasted image 20250814125509.png",
