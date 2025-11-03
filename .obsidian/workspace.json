@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c809e40fac21ca1e",
+            "id": "4e025862b4816666",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,57 +20,27 @@
             }
           },
           {
-            "id": "2457236d96f55421",
+            "id": "40861273f72dd86b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/UML.excalidraw.md"
+                "file": "Excalidraw/1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "UML.excalidraw"
+              "title": "1.excalidraw"
             }
           },
           {
-            "id": "94dd503155befe2b",
+            "id": "d5a558cfbe5b8741",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "excalidraw",
               "state": {
-                "url": "https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-component-diagram/",
-                "title": "What is Component Diagram?",
-                "mode": "webview"
+                "file": "Excalidraw/backend IO Evolution.excalidraw.md"
               },
-              "icon": "globe-2",
-              "title": "What is Component Diagram?"
-            }
-          },
-          {
-            "id": "25b2057a17f805c9",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/",
-                "title": "What is Unified Modeling Language (UML)?",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "What is Unified Modeling Language (UML)?"
-            }
-          },
-          {
-            "id": "225f799f8d4946f0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.w3schools.com/java/java_abstract.asp",
-                "title": "Java Abstraction",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Java Abstraction"
+              "icon": "excalidraw-icon",
+              "title": "backend IO Evolution.excalidraw"
             }
           }
         ],
@@ -247,11 +217,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2457236d96f55421",
+  "active": "40861273f72dd86b",
   "lastOpenFiles": [
+    "Excalidraw/backend IO Evolution.excalidraw.md",
+    "Excalidraw/1.excalidraw.md",
+    "5187082e-8a89-42de-9c29-83892aa9b3ac.png",
     "Excalidraw/UML.excalidraw.md",
     "Excalidraw/Microservices Architecture.md",
-    "Excalidraw/1.excalidraw.md",
     "UML_logo.svg",
     "Excalidraw/Layered Architecture.md",
     "Excalidraw/Monolithic Architecture.md",
@@ -277,7 +249,6 @@
     "Flexisort.md",
     "TodoList.md",
     "TimeTracker.md",
-    "JART.md",
     "intersetion.png",
     "Untitled 1.canvas",
     "Pasted image 20250814125509.png",
