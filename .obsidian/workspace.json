@@ -8,44 +8,69 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a989ab84d1835063",
+            "id": "27dc72ec650057bd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/1.excalidraw.md"
+                "file": "Excalidraw/UML.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1.excalidraw"
+              "title": "UML.excalidraw"
             }
           },
           {
-            "id": "cf844f9e67811e29",
+            "id": "5cbc33c50837eb17",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/1.excalidraw.md"
+                "file": "Excalidraw/UML.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1.excalidraw"
+              "title": "UML.excalidraw"
             }
           },
           {
-            "id": "cf07f3931b9f9ce2",
+            "id": "b29b770af19871b3",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/watch?v=Nv2DERaMx-4",
-                "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners - YouTube",
+                "url": "https://www.youtube.com/watch?v=WnMQ8HlmeXc",
+                "title": "UML Diagrams Full Course (Unified Modeling Language) - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners - YouTube"
+              "title": "UML Diagrams Full Course (Unified Modeling Language) - YouTube"
+            }
+          },
+          {
+            "id": "51b27dde7b2c0401",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=xsg9BDiwiJE&list=PLUoebdZqEHTxpGCwKrb82cIvHNoNaBb4R",
+                "title": "Entity Relationship Diagram (ERD) Tutorial - Part 1 - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Entity Relationship Diagram (ERD) Tutorial - Part 1 - YouTube"
+            }
+          },
+          {
+            "id": "8a7dadd494132f72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,19 +243,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a989ab84d1835063",
+  "active": "b29b770af19871b3",
   "lastOpenFiles": [
     "Excalidraw/UML.excalidraw.md",
-    "Excalidraw/1.excalidraw.md",
-    "Excalidraw/Microservices Architecture.md",
-    "UML_logo.svg",
-    "Excalidraw/Layered Architecture.md",
     "Excalidraw/Monolithic Architecture.md",
-    "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
+    "Excalidraw/Layered Architecture.md",
+    "Excalidraw/Microservices Architecture.md",
+    "Excalidraw/Drawing 2025-11-03 00.40.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-03 00.40.36.excalidraw.md",
+    "UML_logo.svg",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Excalidraw/1.excalidraw.md",
     "Pasted Image 20251102072917_191.png",
+    "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
     "Excalidraw",
     "When do we use `length` and `length()` in Java?.md",
-    "Untitled.canvas",
     "Untitled 1.md",
     "Checkpoint-1.md",
     "SingleLinkedList manual.md",
@@ -247,8 +275,6 @@
     "DistinctSubstringLength.md",
     "Flexisort.md",
     "TodoList.md",
-    "TimeTracker.md",
-    "JART.md",
     "intersetion.png",
     "Untitled 1.canvas",
     "Pasted image 20250814125509.png",
