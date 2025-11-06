@@ -37,6 +37,18 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Excalidraw/1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1.excalidraw"
+            }
+          },
+          {
+            "id": "9da029e74df187bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Excalidraw/backend IO Evolution.excalidraw.md"
               },
               "icon": "excalidraw-icon",
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,12 +229,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40861273f72dd86b",
+  "active": "9da029e74df187bb",
   "lastOpenFiles": [
-    "Excalidraw/backend IO Evolution.excalidraw.md",
     "Excalidraw/1.excalidraw.md",
-    "5187082e-8a89-42de-9c29-83892aa9b3ac.png",
     "Excalidraw/UML.excalidraw.md",
+    "Excalidraw/backend IO Evolution.excalidraw.md",
+    "5187082e-8a89-42de-9c29-83892aa9b3ac.png",
     "Excalidraw/Microservices Architecture.md",
     "UML_logo.svg",
     "Excalidraw/Layered Architecture.md",
