@@ -32,7 +32,33 @@
             }
           },
           {
-            "id": "d5a558cfbe5b8741",
+            "id": "9da029e74df187bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/UML.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "UML.excalidraw"
+            }
+          },
+          {
+            "id": "93b12237ab796bdc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=fpxjv5rwXc4&list=PLB9AbbTDeBzSe4osof0YcsUCshwlmHxst&index=2",
+                "title": "UML #01: Introduction to the UML language - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "UML #01: Introduction to the UML language - YouTube"
+            }
+          },
+          {
+            "id": "d84b573a9da0702d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -42,21 +68,9 @@
               "icon": "excalidraw-icon",
               "title": "1.excalidraw"
             }
-          },
-          {
-            "id": "9da029e74df187bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/backend IO Evolution.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "backend IO Evolution.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,14 +245,14 @@
   },
   "active": "9da029e74df187bb",
   "lastOpenFiles": [
-    "Excalidraw/1.excalidraw.md",
     "Excalidraw/UML.excalidraw.md",
     "Excalidraw/backend IO Evolution.excalidraw.md",
+    "Excalidraw/1.excalidraw.md",
+    "Excalidraw/Monolithic Architecture.md",
     "5187082e-8a89-42de-9c29-83892aa9b3ac.png",
     "Excalidraw/Microservices Architecture.md",
     "UML_logo.svg",
     "Excalidraw/Layered Architecture.md",
-    "Excalidraw/Monolithic Architecture.md",
     "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
     "Pasted Image 20251102072917_191.png",
     "Excalidraw",
