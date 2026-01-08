@@ -53,7 +53,7 @@ Together, these services form the full application.
 ## **4\. Typical Microservices Architecture Diagram**
 
 ```pgsql
-┌──────────────────────┐
+                 ┌──────────────────────┐
                  │      Client (UI)     │
                  └───────────┬──────────┘
                              │
