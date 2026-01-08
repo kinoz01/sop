@@ -60,7 +60,7 @@ Also called the **UI layer** or **Client layer**.
 
 ### **(2) Business Logic Layer (Service Layer)**
 
-This is the **core of the application** — it defines how data is processed and what rules apply.
+This is the **core of the application**, it defines how data is processed and what rules apply.
 
 **Responsibilities:**
 
